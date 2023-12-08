@@ -1,1 +1,18 @@
 Session 1: 2023-12-08T08:48:00.476Z
+    
+    
+    {
+        id: 1,
+        content: 'backend using node.js',
+        important: true
+    }, 
+    {
+        id: 2,
+        content: 'node.js is a open source',
+        important: false
+    },
+    {
+        id: 3,
+        content: 'simple web server using Node.js',
+        important: true
+    }
